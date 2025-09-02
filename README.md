@@ -59,4 +59,14 @@ Example Plots:
 - Line graph of **Users vs Sessions over time**  
 - Bar chart of **Users by Channel Group**  
 - Box plot of **Engagement Rate** by Channel Group  
-- Correlation **Heatmap** of website metrics  
+- Correlation **Heatmap** of website metrics
+
+📈 Results & Insights
+
+Identified top-performing traffic channels driving maximum users.
+
+Found that engagement varies strongly by channel group.
+
+Time-series analysis showed peak activity hours.
+
+Correlation revealed strong links between Sessions, Users, and Events.
